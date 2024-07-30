@@ -1,0 +1,467 @@
+.hospital {
+    text-decoration: none;
+    position: relative;
+    letter-spacing: -0.03em;
+    font-family: Inter;
+font-size: 40.01px;
+font-weight: 400;
+line-height: 48.42px;
+letter-spacing: -0.03em;
+text-align: left;
+ color: #1740D4;
+  }
+  .address,
+  .etiam-etiam-velit {
+    position: relative;
+    line-height: 150%;
+  }
+  .address {
+   
+    display: inline-block;
+    min-width: 68px;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+ color: #121212;
+  }
+  .etiam-etiam-velit ,.egestas-id-facilisi , .integer-ac-pellentesque{
+    align-self: stretch;
+    color: #292929;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+
+  }
+  .chat-with-us {
+    width: 197.6px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1.5px;
+  }
+  .email , .emergency-24x7 {
+    font-weight: 500;
+    display: inline-block;
+    min-width: 46px;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+color: #121212 ;
+  }
+
+  .egestas-id-facilisi,
+  .email,
+  .integer-ac-pellentesque {
+    position: relative;
+    line-height: 150%;
+    
+  }
+  .phone-numbers {
+    color: var(--color-gray-100);
+  }
+  .contact-info-types,
+  .phone-numbers {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-10xs-3);
+  }
+  .emergency-24x7 {
+    position: relative;
+    line-height: 150%;
+    font-weight: 500;
+  }
+  .landline-080,
+  .mobile-91-9741 {
+    position: relative;
+    line-height: 150%;
+    white-space: pre-wrap;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #292929;
+
+  }
+  .landline-080-26257700-99-parent {
+    padding: 0 0 0.1px;
+    gap: var(--gap-10xs-3);
+    color: var(--color-gray-100);
+  }
+  .contact-info-details,
+  .contact-info-types1,
+  .landline-080-26257700-99-parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .contact-info-types1 {
+    padding: 0;
+    gap: var(--gap-10xs-3);
+  }
+  .contact-info-details {
+    align-self: stretch;
+    gap: 18.8px;
+  }
+  .icbaseline-facebook-icon,
+  .mdiinstagram-icon,
+  .mdilinkedin-icon,
+  .mditwitter-icon {
+    height: 19.3px;
+    width: 19.3px;
+    position: relative;
+    overflow: hidden;
+    flex-shrink: 0;
+    min-height: 19px;
+  }
+  .icbaseline-facebook-icon,
+  .mdiinstagram-icon,
+  .mditwitter-icon {
+    height: 19.4px;
+    width: 19.4px;
+  }
+  .input-dividers {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 20.7px;
+  }
+  .contact-info-details-parent,
+  .hospital-info-container {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+  }
+  .contact-info-details-parent {
+    align-self: stretch;
+    gap: 32px;
+  }
+  .hospital-info-container {
+    width: 269.5px;
+    padding: 0 20px 0 0;
+    box-sizing: border-box;
+  }
+  .page-links {
+    position: relative;
+    line-height: 150%;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 83px;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+text-align: left;
+ color: #121212;
+  }
+  .about-us,
+  .doctors,
+  .gallery,
+  .health-package,
+  .specialties {
+    position: relative;
+    line-height: 150%;
+    display: inline-block;
+    min-width: 68px;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #223C99;
+  }
+  .doctors,
+  .gallery,
+  .health-package,
+  .specialties {
+    min-width: 60px;
+  }
+  .gallery,
+  .health-package,
+  .specialties {
+    min-width: 83px;
+  }
+  .gallery,
+  .health-package {
+    min-width: 53px;
+  }
+  .health-package {
+    min-width: 119px;
+  }
+  .page-links-types  {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+  .careers,
+  .contact-us,
+  .faqs,
+  .hospitals,
+  .patient-info {
+    position: relative;
+    line-height: 150%;
+    display: inline-block;
+    min-width: 87px;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+ color: #223C99;
+  }
+  .careers,
+  .contact-us,
+  .faqs,
+  .hospitals {
+    min-width: 39px;
+  }
+  .careers,
+  .contact-us,
+  .hospitals {
+    min-width: 85px;
+  }
+  .careers,
+  .hospitals {
+    min-width: 60px;
+  }
+  .hospitals {
+    min-width: 71px;
+  }
+  .page-links-list,
+  .page-links-types1 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+  .page-links-list {
+    margin-top: 20px;
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+    color: var(--color-darkslateblue-100);
+  }
+  .page-links-parent {
+    width: 270.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-lg);
+  }
+  .our-services {
+    position: relative;
+    line-height: 150%;
+    font-weight: 500;
+    display: inline-block;
+    min-width: 103px;
+    margin-bottom: 10px;
+  }
+  .cardiology,
+  .dialysis,
+  .nephrology-and-urology,
+  .neurology,
+  .orthopedics-and-joint,
+  .prosthetic {
+    align-self: stretch;
+    position: relative;
+    line-height: 150%;
+    font-family: inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+     color: #223C99;
+  }
+  .services-types {
+    width: 122.3px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 10px;
+  }
+  .emergency-medicine {
+    align-self: stretch;
+    position: relative;
+    line-height: 150%;
+  }
+  .general-surgery {
+    position: relative;
+    line-height: 150%;
+    display: inline-block;
+    min-width: 122.3px;
+  }
+  .critical-care,
+  .for-disabled,
+  .nutrition-and-diabetics,
+  .x-ray {
+    align-self: stretch;
+    position: relative;
+    line-height: 150%;
+  }
+  .services-list,
+  .services-types1 {
+    display: flex;
+    align-items: flex-start;
+  }
+  .services-types1 {
+    width: 122.3px;
+    flex-direction: column;
+    justify-content: flex-start;
+    gap: 10px;
+    font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+color: #223C99;
+  }
+  .services-list {
+    align-self: stretch;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 0;
+    gap: var(--gap-xl);
+    color: var(--color-darkslateblue-100);
+  }
+  .hospital-info,
+  .our-services-parent {
+    width: 309px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: var(--gap-lg);
+  }
+  .hospital-info {
+    width: 1176px;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: var(--gap-xl);
+    max-width: 100%;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--color-gray-200);
+    font-family: var(--font-inter);
+    
+  }
+  .advisors,
+  .nilah {
+    margin: 0;
+  }
+  .nilah-advisors {
+    position: relative;
+    line-height: 101.75%;
+    font-weight: 600;
+  }
+  .about-us1,
+  .blogs,
+  .contact-us1,
+  .gallery1,
+  .services {
+    height: 47px;
+    position: relative;
+    line-height: 46.5px;
+    text-transform: capitalize;
+    font-weight: 500;
+    display: inline-block;
+    mix-blend-mode: multiply;
+  }
+  .about-us-parent {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+    gap: 33px;
+    max-width: 100%;
+    flex-shrink: 0;
+    color: var(--color-darkslateblue-200);
+    font-family: var(--font-inter);
+  }
+  .fooeter,
+  .nilah-advisors-parent {
+    overflow: hidden;
+    box-sizing: border-box;
+  }
+  .nilah-advisors-parent {
+    width: 1440px;
+    box-shadow: 0 3px 25.5px rgba(36, 73, 200, 0.1);
+    background-color: #fff;
+    display: none;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 48px 132px 16.5px;
+    max-width: 100%;
+    gap: var(--gap-xl);
+    font-size: var(--font-size-mini);
+    color: #000;
+    font-family: var(--font-argentum-sans);
+  }
+  .fooeter {
+    width: 1520px;
+    position: relative;
+    background-color: #fefefe;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 80.6px 80px 39.6px;
+    gap: 43.4px;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: left;
+    font-size: 40px;
+    color: #1740d4;
+    font-family: var(--font-inter);
+  }
+  @media screen and (max-width: 1200px) {
+    .fooeter {
+      padding-left: var(--padding-21xl);
+      padding-right: var(--padding-21xl);
+      box-sizing: border-box;
+    }
+  }
+  @media screen and (max-width: 1050px) {
+    .hospital {
+      font-size: 32px;
+    }
+    .nilah-advisors-parent {
+      flex-wrap: wrap;
+    }
+  }
+  @media screen and (max-width: 750px) {
+    .about-us-parent {
+      flex-wrap: wrap;
+    }
+    .fooeter {
+      gap: 22px;
+    }
+  }
+  @media screen and (max-width: 450px) {
+    .hospital {
+      font-size: 24px;
+    }
+    .services-list {
+      flex-wrap: wrap;
+    }
+  }
